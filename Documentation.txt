@@ -1,0 +1,34 @@
+
+
+	Index
+	1.Random Function -101
+	2. initialization list format-102
+	3. Inheriting format. 103
+	3.MessageBox 104
+
+
+
+
+
+Contents
+	1.Random Function-101
+		#include<stdlib.h>
+		#include<time.h>
+		srand(time(0));
+		int var=rand()%10+1;  # for 0-9 range
+
+	#102. initialization list format-102
+	Rectangle::Rectangle(float w, float h):width(w),height(h)
+	{
+
+	} 
+
+
+	#103  Inheriting format. 103
+	Square::Square(float side):Rectangle(side,side)
+	{
+
+	}	
+	#104. messageBox
+	   QMessageBox::information(this,"message","you pressed buttom",QMessageBox::Ok);
+
