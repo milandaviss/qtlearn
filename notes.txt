@@ -1,0 +1,13 @@
+
+
+
+	Data Structures
+
+	Arrays:
+
+	->Array is collection of similiar data elements.
+	->When created it will inside The stack section of main memory
+	->
+
+	
+	 ->
