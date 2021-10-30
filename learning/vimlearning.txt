@@ -1,0 +1,72 @@
+		Vim Learning
+==================================================
+
+Commands:-
+
+
+i-> insert mode
+escape->reading mode
+save and quit-> :wq
+w->skip to next word
+b->skip to last word
+{ ->skip to next paragraph
+(-> skip to next sentence
+
+h-> move one letter horizontally left
+j-> move one letter vertically down
+k-> move one letter vertically up
+l-> move one letter horizontally right
+
+	
+3w-> skip forword 3words
+3{ -> skip forward 3 paragraphs
+
+
+
+
+/(search) -> for forward search
+
+shift + g-> move to end of the screen
+ctrl  +b -> move screen backwards
+
+move to line 30 -> :30
+move to end of then line : -> $
+
+find next occurence of the word:  *  
+
+delete next sentence -> d+ )
+delete next word -> d+w
+
+yank a line -> yy
+paste -> shift +p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sample sentence for doing exercises
+
+
+it’s simple sentences for those just learning the English language or phrasing for an academic paper, this easy-to-use sentence generator will help you choose your words with confidence.
+
+With our sentence examples, seeing a word within the context of a sentence helps you better understand it and know how to use it correctly. From long to short, simple to complex, this tool can assist you with how to use words that may have more than one meaning.
